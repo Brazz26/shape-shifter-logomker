@@ -1,0 +1,16 @@
+{
+  "name": "shape-shifter-logomker",
+  "version": "1.0.0",
+  "description": "## This roject was created to aid those willing uin creating a logo for their perspective fields. As a user I want to create a logo that defines my ideals and ethics in a moral way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4",
+    "jest": "29.7.0"
+    }
+}
