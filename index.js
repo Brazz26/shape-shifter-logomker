@@ -34,7 +34,7 @@ inquirer.prompt([
         case 'Circle':
             shapeChoice = new Circle()
         break;
-        case 'Traingle':
+        case 'Triangle':
             shapeChoice = new Triangle()
         break;
         case 'Square':
